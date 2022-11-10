@@ -1,1 +1,3 @@
-# Bus-Reservation-Core-Project by using core java without front end and Database.
+# Bus-Reservation-Core-Project 
+
+This Project is using core java without front end and Database.
